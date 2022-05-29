@@ -1,2 +1,2 @@
 # Site-Informativo
-Modelo de site
+Modelo de site informativo
